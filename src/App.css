@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 10px;
+}
+
+.buttons {
+  padding: 10px;
+}
+
+.btn {
+  margin-right: 10px;
+  color: goldenrod;
+  border-color: goldenrod;;
+}
+
+.card-body-stars {
+  display: flex;
+  
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+
+  color: goldenrod;
+}
+
